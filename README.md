@@ -46,26 +46,11 @@ Here are some ideas to get you started:
 - ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
 - ![Prometheus](https://img.shields.io/badge/Prometheus-%230A4C5B?style=for-the-badge&logo=prometheus&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233B9FCF?style=for-the-badge&logo=python&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=java&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-%23777BB5?style=for-the-badge&logo=php&logoColor=white)
-- ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnubash&logoColor=white)
-- ![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=maven&logoColor=white)
 - ![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/Selenium-%238D1F1A?style=for-the-badge&logo=selenium&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=for-the-badge&logo=microsoftwindows&logoColor=white)
-- ![macOS](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=apple&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230D4B7E?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -74,16 +59,5 @@ Here are some ideas to get you started:
 - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## Technologies That I Know 👨🏻‍💻
-
-- ![AWS](https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_Web_Services_Logo.svg)
-- ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/d/d6/Microsoft_Azure_Logo.svg)
-- ![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Cloud_logo.svg)
-- ![Terraform](https://upload.wikimedia.org/wikipedia/commons/1/1f/Terraform_Logo.svg)
-- ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg)
-- ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.svg)
-- ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/5/52/Jenkins_logo.svg)
-- ![Git](https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_git.svg)
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
 
 
