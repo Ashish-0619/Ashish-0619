@@ -73,3 +73,17 @@ Here are some ideas to get you started:
 - ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%233C3C3C?style=for-the-badge&logo=sublimetext&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+## Technologies That I Know 👨🏻‍💻
+
+- ![AWS](https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_Web_Services_Logo.svg)
+- ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/d/d6/Microsoft_Azure_Logo.svg)
+- ![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Cloud_logo.svg)
+- ![Terraform](https://upload.wikimedia.org/wikipedia/commons/1/1f/Terraform_Logo.svg)
+- ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg)
+- ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.svg)
+- ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/5/52/Jenkins_logo.svg)
+- ![Git](https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_git.svg)
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+
+
