@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi, I'm Ashish Sawant 👋  
 🌟 **DevOps Engineer | Cloud Enthusiast | Automation Aficionado**  
