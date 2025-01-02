@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# Hi, I'm Ashish Sawant 👋  
+🌟 **DevOps Engineer | Cloud Enthusiast | Automation Aficionado**  
+🚀 I specialize in building scalable, secure, and automated solutions using tools like **Kubernetes**, **Terraform**, **Jenkins**, and **Ansible**.  
+
+### 🛠️ Skills & Tools
+- **Cloud Platforms**: AWS, Azure,
+- **IaC Tools**: Terraform,
+- **CI/CD**: Jenkins, GitHub Actions
+- **Scripting**: Python, Bash, PowerShell
+- **Monitoring**: Prometheus, Grafana, Datadog
+- **container orchestration**: Kubernetes, Docker, AWS EKS 
+
+### 📂 Featured Projects
+
 <!--
 **Ashish-0619/Ashish-0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
